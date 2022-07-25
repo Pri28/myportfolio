@@ -1,0 +1,57 @@
+.h1{
+    text-align: center;
+}
+
+section{
+  background-color: aliceblue;
+}
+
+.I1{
+  padding-top: 48px;
+  padding-left: 50px;
+  padding-right: 5px;
+}
+
+.head{
+    color: brown;
+    font-weight: bold;
+    // font-size: 30px;
+    padding-top: 20px;
+  }
+  
+
+  .section{
+    background-image: url(../../../assets/images/back.jpg);
+    opacity: 0.8;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 1000px;
+    object-fit: cover;
+    margin-top: 48px;
+    margin-bottom: 80px;
+    height: 800px;
+  }
+
+ .image{
+  margin-left: 170PX ;
+ }
+
+  img{
+    border-radius: 20px;
+  }
+  
+  .r1{
+    color:brown;
+  }
+
+  .vl{
+    
+    border-left: 6px solid green;
+    height: 500px;
+  }
+
+  .b1{
+    margin-left: 50px;
+    background-color: #b45355;
+    border-color: #b45355;
+  }

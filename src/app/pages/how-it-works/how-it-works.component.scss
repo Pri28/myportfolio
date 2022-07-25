@@ -1,0 +1,90 @@
+.h1{
+    text-align: center;
+}
+
+section{
+  background-color: aliceblue;
+}
+
+.b1{
+  margin-left: 100px;
+}
+
+.b2{
+  margin-left:50px;
+}
+.d1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    // position: absolute;
+  // top: 33%;
+  // left: 50%;
+  // transform: translate(-50%,-50%);
+  width: 100%;
+  text-align: center;
+  color:lightgray;
+}
+
+.s1{
+  font-size: 100px;
+  font-weight: 800;
+  text-shadow: -0.02em 0.03em 0.12em rgba(0,0,0,0.9);
+}
+
+.s1:not(:first-child){
+  margin-left: -0.15em;
+}
+
+  .l1{
+    // padding-bottom: 5px;
+    padding-top: 20px;
+}
+
+.carousel-inner {
+  display: flex;
+  transition: 1000ms ;
+  height: 100%;
+}
+
+.carousel-wrapper {
+  overflow: hidden;
+}
+
+
+.carousel-item {
+  transition: transform 2.6s ease-in-out;
+}
+
+.carousel-fade .active.carousel-item-start,
+.carousel-fade .active.carousel-item-end {
+  transition: opacity 0s 2.6s;
+}
+
+
+.carousel-caption{
+  font-weight: bolder;
+  font-size: 40px;
+  opacity: 0.6;
+  padding-bottom: 320px;
+}
+
+.p1{
+  text-align: center;
+  font-size: 70px;
+  padding-bottom: 100px;
+}
+
+.slider{
+  margin: auto;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.span1{
+  color: black;
+}
+
+.b1{
+  margin-left: 65px;
+  background-color: darkblue;
+  border-color: darkblue;
+}
