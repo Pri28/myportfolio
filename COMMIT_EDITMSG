@@ -1,0 +1,17 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   src/app/pages/about-us/about-us.component.html
+#	modified:   src/app/pages/about-us/about-us.component.scss
+#	modified:   src/app/pages/demo/demo.component.html
+#	modified:   src/app/pages/demo/demo.component.scss
+#	modified:   src/app/pages/footer/footer.component.html
+#	modified:   src/app/pages/footer/footer.component.scss
+#	modified:   src/app/pages/home/home.component.scss
+#	modified:   src/app/pages/how-it-works/how-it-works.component.html
+#	modified:   src/app/pages/how-it-works/how-it-works.component.scss
+#	modified:   src/app/pages/transition/transition.component.scss
+#
